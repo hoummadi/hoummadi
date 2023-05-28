@@ -17,7 +17,8 @@
 
 **About me**
 
-- 👨🏽‍💻 I am a software engineering staff & student at [1337 School](https://www.1337.ma/en/).
+- 👨🏽‍💻 Technical & Pedagogical Staff at [1337 School](https://www.1337.ma/en/).
+- 👨🏽‍💻 Software engineering student at [1337 School](https://www.1337.ma/en/).
 - ❤️ Passionate and curious learner who loves to take on new significant challenges.
 - 🎖 Ranked 5th in [codingame](https://www.codingame.com/profile/8b104feb2cd64ffd04b16fb55e1e76946368504) on Morocco.
 
