@@ -20,7 +20,7 @@
 - 👨🏽‍💻 Technical & Pedagogical Staff at [1337 School](https://www.1337.ma/en/).
 - 👨🏽‍💻 Software engineering student at [1337 School](https://www.1337.ma/en/).
 - ❤️ Passionate and curious learner who loves to take on new significant challenges.
-- 🎖 Ranked 6th in [codingame](https://www.codingame.com/profile/8b104feb2cd64ffd04b16fb55e1e76946368504) on Morocco.
+- 🎖 Ranked 7th in [codingame](https://www.codingame.com/profile/8b104feb2cd64ffd04b16fb55e1e76946368504) on Morocco.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoummadi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
